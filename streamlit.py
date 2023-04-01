@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-%matplotlib inline
+
 
 ## Now we need to run the following code to read the csv file.
 
